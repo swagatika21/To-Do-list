@@ -1,4 +1,4 @@
-This ###Todo-List app is simply created with react give it a try.
+This Todo-List app is simply created with react give it a try.
 check the deployed website at https://swagatika21.github.io/To-Do-list/
 
 In the project directory, you can run:
